@@ -10,19 +10,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var1 = "전략 및 리스크 관리";
-            $('.ls-head').text(var1);
+            $('.ls-head').text("전략 및 리스크 관리");
             $('.ls-head').fadeIn(1000);
-            var2 = "귀사의 비즈니스를 이해하는 파트너와 함께 사이버 보안 전략 강화 및 리스크 관리";
-            $('.ls-subhead').text(var2);
+            $('.ls-subhead').text("귀사의 비즈니스를 이해하는 파트너와 함께 사이버 보안 전략 강화 및 리스크 관리");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var3 = "보안 솔루션";
-            $('.ls-head').text(va3);
-            var4 = "귀사의 비즈니스를 이해하는 파트너와 함께 방어 기능을 통합하고 혁신을 실현하는 보안 솔루션에 대해 알아보세요.";
-            $('.ls-subhead').text(var4);
+            $('.ls-head').text("보안 솔루션");
+            $('.ls-subhead').text("귀사의 비즈니스를 이해하는 파트너와 함께 방어 기능을 통합하고 혁신을 실현하는 보안 솔루션에 대해 알아보세요.");
         })
 
     $('.box-hover-2').hover(function() {
@@ -35,19 +31,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var5 = "위협 관리";
-            $('.ls-head').text(var5);
+            $('.ls-head').text("위협 관리");
             $('.ls-head').fadeIn(1000);
-            var6 = "위협 탐지, 분석 및 대응을 단순화하고 강화하기 위한 방어 기능 통합";
-            $('.ls-subhead').text(var6);
+            $('.ls-subhead').text("위협 탐지, 분석 및 대응을 단순화하고 강화하기 위한 방어 기능 통합");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var7 = "보안 솔루션";
-            $('.ls-head').text(var7);
-            var8 = "귀사의 비즈니스를 이해하는 파트너와 함께 방어 기능을 통합하고 혁신을 실현하는 보안 솔루션에 대해 알아보세요.";
-            $('.ls-subhead').text(var8);
+            $('.ls-head').text("보안 솔루션");
+            $('.ls-subhead').text("귀사의 비즈니스를 이해하는 파트너와 함께 방어 기능을 통합하고 혁신을 실현하는 보안 솔루션에 대해 알아보세요.");
         })
 
     $('.box-hover-3').hover(function() {
@@ -60,19 +52,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var9 = "디지털 신뢰";
-            $('.ls-head').text(var9);
+            $('.ls-head').text("디지털 신뢰");
             $('.ls-head').fadeIn(1000);
-            var10 = "신뢰할 수 있는 사용자 관계를 개발하고 비즈니스를 강화하는 데이터를 보호하여 혁신 실현";
-            $('.ls-subhead').text(var10);
+            $('.ls-subhead').text("신뢰할 수 있는 사용자 관계를 개발하고 비즈니스를 강화하는 데이터를 보호하여 혁신 실현");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var11 = "보안 솔루션";
-            $('.ls-head').text(var11);
-            var12 = "귀사의 비즈니스를 이해하는 파트너와 함께 방어 기능을 통합하고 혁신을 실현하는 보안 솔루션에 대해 알아보세요.";
-            $('.ls-subhead').text(var12);
+            $('.ls-head').text("보안 솔루션");
+            $('.ls-subhead').text("귀사의 비즈니스를 이해하는 파트너와 함께 방어 기능을 통합하고 혁신을 실현하는 보안 솔루션에 대해 알아보세요.");
         })
 
     $('.box-hover-4').hover(function() {
@@ -85,20 +73,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var13 = "클라우드 보안";
-            $('.ls-head').text(var13);
+            $('.ls-head').text("클라우드 보안");
             $('.ls-head').fadeIn(1000);
-            var14 = "진행 시 모든 단계에 보안을 통합하여 클라우드로 안전하게 전환";
-            $('.ls-subhead').text(var14);
+            $('.ls-subhead').text("진행 시 모든 단계에 보안을 통합하여 클라우드로 안전하게 전환");
             $('.ls-subhead').fadeIn(1300);
 
         },
-        var15 = "보안 솔루션";
-
         function() {
-            $('.ls-head').text(var15);
-            var16 = "귀사의 비즈니스를 이해하는 파트너와 함께 방어 기능을 통합하고 혁신을 실현하는 보안 솔루션에 대해 알아보세요.";
-            $('.ls-subhead').text(var16);
+            $('.ls-head').text("보안 솔루션");
+            $('.ls-subhead').text("귀사의 비즈니스를 이해하는 파트너와 함께 방어 기능을 통합하고 혁신을 실현하는 보안 솔루션에 대해 알아보세요.");
         })
 })
 

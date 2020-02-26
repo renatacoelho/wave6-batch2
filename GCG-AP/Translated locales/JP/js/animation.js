@@ -10,19 +10,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var1 = "戦略とリスク管理";
-            $('.ls-head').text(var1);
+            $('.ls-head').text("戦略とリスク管理");
             $('.ls-head').fadeIn(1000);
-            var2 = "お客様のビジネスを知るパートナーと協力して、サイバーセキュリティー戦略を改良し、リスクを管理できます。";
-            $('.ls-subhead').text(var2);
+            $('.ls-subhead').text("お客様のビジネスを知るパートナーと協力して、サイバーセキュリティー戦略を改良し、リスクを管理できます。");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var3 = "セキュリティー・ソリューション";
-            $('.ls-head').text(va3);
-            var4 = "お客様のビジネスを知るパートナーと協力して、防御策を統合し、イノベーションを解放するセキュリティー・ソリューションをご覧ください。";
-            $('.ls-subhead').text(var4);
+            $('.ls-head').text("セキュリティー・ソリューション");
+            $('.ls-subhead').text("お客様のビジネスを知るパートナーと協力して、防御策を統合し、イノベーションを解放するセキュリティー・ソリューションをご覧ください。");
         })
 
     $('.box-hover-2').hover(function() {
@@ -35,19 +31,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var5 = "脅威の管理";
-            $('.ls-head').text(var5);
+            $('.ls-head').text("脅威の管理");
             $('.ls-head').fadeIn(1000);
-            var6 = "シンプルで強力な脅威の検出、分析、対応のために、防御策を統合します。";
-            $('.ls-subhead').text(var6);
+            $('.ls-subhead').text("シンプルで強力な脅威の検出、分析、対応のために、防御策を統合します。");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var7 = "セキュリティー・ソリューション";
-            $('.ls-head').text(var7);
-            var8 = "お客様のビジネスを知るパートナーと協力して、防御策を統合し、イノベーションを解放するセキュリティー・ソリューションをご覧ください。";
-            $('.ls-subhead').text(var8);
+            $('.ls-head').text("セキュリティー・ソリューション");
+            $('.ls-subhead').text("お客様のビジネスを知るパートナーと協力して、防御策を統合し、イノベーションを解放するセキュリティー・ソリューションをご覧ください。");
         })
 
     $('.box-hover-3').hover(function() {
@@ -60,19 +52,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var9 = "デジタル・トラスト";
-            $('.ls-head').text(var9);
+            $('.ls-head').text("デジタル・トラスト");
             $('.ls-head').fadeIn(1000);
-            var10 = "信頼できるユーザー・リレーションシップを構築し、ビジネスに力を与えるデータを保護することで、イノベーションを解放できます。";
-            $('.ls-subhead').text(var10);
+            $('.ls-subhead').text("信頼できるユーザー・リレーションシップを構築し、ビジネスに力を与えるデータを保護することで、イノベーションを解放できます。");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var11 = "セキュリティー・ソリューション";
-            $('.ls-head').text(var11);
-            var12 = "お客様のビジネスを知るパートナーと協力して、防御策を統合し、イノベーションを解放するセキュリティー・ソリューションをご覧ください。";
-            $('.ls-subhead').text(var12);
+            $('.ls-head').text("セキュリティー・ソリューション");
+            $('.ls-subhead').text("お客様のビジネスを知るパートナーと協力して、防御策を統合し、イノベーションを解放するセキュリティー・ソリューションをご覧ください。");
         })
 
     $('.box-hover-4').hover(function() {
@@ -85,20 +73,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var13 = "クラウド・セキュリティー";
-            $('.ls-head').text(var13);
+            $('.ls-head').text("クラウド・セキュリティー");
             $('.ls-head').fadeIn(1000);
-            var14 = "すべての移行段階にセキュリティー機能を組み込むことで、自信を持ってクラウドに移行できます。";
-            $('.ls-subhead').text(var14);
+            $('.ls-subhead').text("すべての移行段階にセキュリティー機能を組み込むことで、自信を持ってクラウドに移行できます。");
             $('.ls-subhead').fadeIn(1300);
 
         },
-        var15 = "セキュリティー・ソリューション";
-
         function() {
-            $('.ls-head').text(var15);
-            var16 = "お客様のビジネスを知るパートナーと協力して、防御策を統合し、イノベーションを解放するセキュリティー・ソリューションをご覧ください。";
-            $('.ls-subhead').text(var16);
+            $('.ls-head').text("セキュリティー・ソリューション");
+            $('.ls-subhead').text("お客様のビジネスを知るパートナーと協力して、防御策を統合し、イノベーションを解放するセキュリティー・ソリューションをご覧ください。");
         })
 })
 

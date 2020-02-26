@@ -10,19 +10,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var1 = "策略與風險管理";
-            $('.ls-head').text(var1);
+            $('.ls-head').text("策略與風險管理");
             $('.ls-head').fadeIn(1000);
-            var2 = "與懂得您企業的合作夥伴聯手，強化您的網路安全策略並管理風險";
-            $('.ls-subhead').text(var2);
+            $('.ls-subhead').text("與懂得您企業的合作夥伴聯手，強化您的網路安全策略並管理風險");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var3 = "安全解決方案";
-            $('.ls-head').text(va3);
-            var4 = "探索解決方案如何透過懂得您企業的合作夥伴，統一各項防禦功能並發揮創新能力";
-            $('.ls-subhead').text(var4);
+            $('.ls-head').text("安全解決方案");
+            $('.ls-subhead').text("探索解決方案如何透過懂得您企業的合作夥伴，統一各項防禦功能並發揮創新能力");
         })
 
     $('.box-hover-2').hover(function() {
@@ -35,19 +31,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var5 = "威脅管理";
-            $('.ls-head').text(var5);
+            $('.ls-head').text("威脅管理");
             $('.ls-head').fadeIn(1000);
-            var6 = "統一各項防禦功能，簡化並加強威脅偵測、分析及回應作業";
-            $('.ls-subhead').text(var6);
+            $('.ls-subhead').text("統一各項防禦功能，簡化並加強威脅偵測、分析及回應作業");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var7 = "安全解決方案";
-            $('.ls-head').text(var7);
-            var8 = "探索解決方案如何透過懂得您企業的合作夥伴，統一各項防禦功能並發揮創新能力";
-            $('.ls-subhead').text(var8);
+            $('.ls-head').text("安全解決方案");
+            $('.ls-subhead').text("探索解決方案如何透過懂得您企業的合作夥伴，統一各項防禦功能並發揮創新能力");
         })
 
     $('.box-hover-3').hover(function() {
@@ -60,19 +52,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var9 = "數位信任";
-            $('.ls-head').text(var9);
+            $('.ls-head').text("數位信任");
             $('.ls-head').fadeIn(1000);
-            var10 = "培養信任的使用者關係，保護企業機要的資料，藉此發揮創新的能力";
-            $('.ls-subhead').text(var10);
+            $('.ls-subhead').text("培養信任的使用者關係，保護企業機要的資料，藉此發揮創新的能力");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var11 = "安全解決方案";
-            $('.ls-head').text(var11);
-            var12 = "探索解決方案如何透過懂得您企業的合作夥伴，統一各項防禦功能並發揮創新能力";
-            $('.ls-subhead').text(var12);
+            $('.ls-head').text("安全解決方案");
+            $('.ls-subhead').text("探索解決方案如何透過懂得您企業的合作夥伴，統一各項防禦功能並發揮創新能力");
         })
 
     $('.box-hover-4').hover(function() {
@@ -85,20 +73,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var13 = "雲端安全";
-            $('.ls-head').text(var13);
+            $('.ls-head').text("雲端安全");
             $('.ls-head').fadeIn(1000);
-            var14 = "將安全性整合至移轉的每一階段，讓您更有把握移至雲端";
-            $('.ls-subhead').text(var14);
+            $('.ls-subhead').text("將安全性整合至移轉的每一階段，讓您更有把握移至雲端");
             $('.ls-subhead').fadeIn(1300);
 
         },
-        var15 = "安全解決方案";
-
         function() {
-            $('.ls-head').text(var15);
-            var16 = "探索解決方案如何透過懂得您企業的合作夥伴，統一各項防禦功能並發揮創新能力";
-            $('.ls-subhead').text(var16);
+            $('.ls-head').text("安全解決方案");
+            $('.ls-subhead').text("探索解決方案如何透過懂得您企業的合作夥伴，統一各項防禦功能並發揮創新能力");
         })
 })
 

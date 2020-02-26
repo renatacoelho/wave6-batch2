@@ -10,19 +10,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var1 = "战略与风险管理";
-            $('.ls-head').text(var1);
+            $('.ls-head').text("战略与风险管理");
             $('.ls-head').fadeIn(1000);
-            var2 = "与了解您业务的合作伙伴一起，推进网络安全战略并进行风险管理";
-            $('.ls-subhead').text(var2);
+            $('.ls-subhead').text("与了解您业务的合作伙伴一起，推进网络安全战略并进行风险管理");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var3 = "安全解决方案";
-            $('.ls-head').text(va3);
-            var4 = "与了解您业务的合作伙伴一起，发现整合防御措施并释放创新活力的安全解决方案";
-            $('.ls-subhead').text(var4);
+            $('.ls-head').text("安全解决方案");
+            $('.ls-subhead').text("与了解您业务的合作伙伴一起，发现整合防御措施并释放创新活力的安全解决方案");
         })
 
     $('.box-hover-2').hover(function() {
@@ -35,19 +31,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var5 = "威胁管理";
-            $('.ls-head').text(var5);
+            $('.ls-head').text("威胁管理");
             $('.ls-head').fadeIn(1000);
-            var6 = "联合防御系统，简化并加强威胁检测、分析和响应";
-            $('.ls-subhead').text(var6);
+            $('.ls-subhead').text("联合防御系统，简化并加强威胁检测、分析和响应");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var7 = "安全解决方案";
-            $('.ls-head').text(var7);
-            var8 = "与了解您业务的合作伙伴一起，发现整合防御措施并释放创新活力的安全解决方案";
-            $('.ls-subhead').text(var8);
+            $('.ls-head').text("安全解决方案");
+            $('.ls-subhead').text("与了解您业务的合作伙伴一起，发现整合防御措施并释放创新活力的安全解决方案");
         })
 
     $('.box-hover-3').hover(function() {
@@ -60,19 +52,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var9 = "数字信任";
-            $('.ls-head').text(var9);
+            $('.ls-head').text("数字信任");
             $('.ls-head').fadeIn(1000);
-            var10 = "通过建立可信赖的用户关系并保护对业务至关重要的数据来解锁创新";
-            $('.ls-subhead').text(var10);
+            $('.ls-subhead').text("通过建立可信赖的用户关系并保护对业务至关重要的数据来解锁创新");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var11 = "安全解决方案";
-            $('.ls-head').text(var11);
-            var12 = "与了解您业务的合作伙伴一起，发现整合防御措施并释放创新活力的安全解决方案";
-            $('.ls-subhead').text(var12);
+            $('.ls-head').text("安全解决方案");
+            $('.ls-subhead').text("与了解您业务的合作伙伴一起，发现整合防御措施并释放创新活力的安全解决方案");
         })
 
     $('.box-hover-4').hover(function() {
@@ -85,20 +73,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var13 = "云安全";
-            $('.ls-head').text(var13);
+            $('.ls-head').text("云安全");
             $('.ls-head').fadeIn(1000);
-            var14 = "将安全系统整合到每个阶段中，更加自信地将数据迁移到云端";
-            $('.ls-subhead').text(var14);
+            $('.ls-subhead').text("将安全系统整合到每个阶段中，更加自信地将数据迁移到云端");
             $('.ls-subhead').fadeIn(1300);
 
         },
-        var15 = "安全解决方案";
-
         function() {
-            $('.ls-head').text(var15);
-            var16 = "与了解您业务的合作伙伴一起，发现整合防御措施并释放创新活力的安全解决方案";
-            $('.ls-subhead').text(var16);
+            $('.ls-head').text("安全解决方案");
+            $('.ls-subhead').text("与了解您业务的合作伙伴一起，发现整合防御措施并释放创新活力的安全解决方案");
         })
 })
 

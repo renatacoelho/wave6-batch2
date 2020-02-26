@@ -10,19 +10,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var1 = "Stratégie et gestion des risques";
-            $('.ls-head').text(var1);
+            $('.ls-head').text("Stratégie et gestion des risques");
             $('.ls-head').fadeIn(1000);
-            var2 = "Développez votre stratégie et gérez les risques avec un partenaire qui comprend votre activité";
-            $('.ls-subhead').text(var2);
+            $('.ls-subhead').text("Développez votre stratégie et gérez les risques avec un partenaire qui comprend votre activité");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var3 = "Solutions de sécurité";
-            $('.ls-head').text(va3);
-            var4 = "Découvrez des solutions de sécurité qui regroupent les moyens de défense et libèrent le potentiel d'innovation avec un partenaire qui comprend votre activité";
-            $('.ls-subhead').text(var4);
+            $('.ls-head').text("Solutions de sécurité");
+            $('.ls-subhead').text("Découvrez des solutions de sécurité qui regroupent les moyens de défense et libèrent le potentiel d'innovation avec un partenaire qui comprend votre activité");
         })
 
     $('.box-hover-2').hover(function() {
@@ -35,19 +31,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var5 = "Gestion des menaces";
-            $('.ls-head').text(var5);
+            $('.ls-head').text("Gestion des menaces");
             $('.ls-head').fadeIn(1000);
-            var6 = "Regroupez vos moyens de défense pour simplifier et renforcer la détection, l'analyse et la réponse aux menaces";
-            $('.ls-subhead').text(var6);
+            $('.ls-subhead').text("Regroupez vos moyens de défense pour simplifier et renforcer la détection, l'analyse et la réponse aux menaces");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var7 = "Solutions de sécurité";
-            $('.ls-head').text(var7);
-            var8 = "Découvrez des solutions de sécurité qui regroupent les moyens de défense et libèrent le potentiel d'innovation avec un partenaire qui comprend votre activité";
-            $('.ls-subhead').text(var8);
+            $('.ls-head').text("Solutions de sécurité");
+            $('.ls-subhead').text("Découvrez des solutions de sécurité qui regroupent les moyens de défense et libèrent le potentiel d'innovation avec un partenaire qui comprend votre activité");
         })
 
     $('.box-hover-3').hover(function() {
@@ -60,19 +52,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var9 = "Confiance numérique";
-            $('.ls-head').text(var9);
+            $('.ls-head').text("Confiance numérique");
             $('.ls-head').fadeIn(1000);
-            var10 = "Libérez votre potentiel d'innovation en tissant des liens de confiance avec les utilisateurs et en protégeant les données essentielles à votre activité";
-            $('.ls-subhead').text(var10);
+            $('.ls-subhead').text("Libérez votre potentiel d'innovation en tissant des liens de confiance avec les utilisateurs et en protégeant les données essentielles à votre activité");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var11 = "Solutions de sécurité";
-            $('.ls-head').text(var11);
-            var12 = "Découvrez des solutions de sécurité qui regroupent les moyens de défense et libèrent le potentiel d'innovation avec un partenaire qui comprend votre activité";
-            $('.ls-subhead').text(var12);
+            $('.ls-head').text("Solutions de sécurité");
+            $('.ls-subhead').text("Découvrez des solutions de sécurité qui regroupent les moyens de défense et libèrent le potentiel d'innovation avec un partenaire qui comprend votre activité");
         })
 
     $('.box-hover-4').hover(function() {
@@ -85,20 +73,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var13 = "Sécurité sur le Cloud";
-            $('.ls-head').text(var13);
+            $('.ls-head').text("Sécurité sur le Cloud");
             $('.ls-head').fadeIn(1000);
-            var14 = "Passez sur le cloud en toute confiance en intégrant la sécurité à chaque étape de votre parcours";
-            $('.ls-subhead').text(var14);
+            $('.ls-subhead').text("Passez sur le cloud en toute confiance en intégrant la sécurité à chaque étape de votre parcours");
             $('.ls-subhead').fadeIn(1300);
 
         },
-        var15 = "Solutions de sécurité";
-
         function() {
-            $('.ls-head').text(var15);
-            var16 = "Découvrez des solutions de sécurité qui regroupent les moyens de défense et libèrent le potentiel d'innovation avec un partenaire qui comprend votre activité";
-            $('.ls-subhead').text(var16);
+            $('.ls-head').text("Solutions de sécurité");
+            $('.ls-subhead').text("Découvrez des solutions de sécurité qui regroupent les moyens de défense et libèrent le potentiel d'innovation avec un partenaire qui comprend votre activité");
         })
 })
 

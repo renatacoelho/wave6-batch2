@@ -10,19 +10,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var1 = "Strategia i zarządzanie ryzykiem";
-            $('.ls-head').text(var1);
+            $('.ls-head').text("Strategia i zarządzanie ryzykiem");
             $('.ls-head').fadeIn(1000);
-            var2 = "Rozwijaj swoją strategię cyberbezpieczeństwa i zarządzaj ryzykiem z pomocą partnera, który rozumie potrzeby Twojego przedsiębiorstwa";
-            $('.ls-subhead').text(var2);
+            $('.ls-subhead').text("Rozwijaj swoją strategię cyberbezpieczeństwa i zarządzaj ryzykiem z pomocą partnera, który rozumie potrzeby Twojego przedsiębiorstwa");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var3 = "Rozwiązania w dziedzinie bezpieczeństwa";
-            $('.ls-head').text(va3);
-            var4 = "Poznaj rozwiązania, które zapewniają spójną ochronę i sprzyjają innowacjom. Jesteśmy partnerem, który rozumie potrzeby Twojego przedsiębiorstwa";
-            $('.ls-subhead').text(var4);
+            $('.ls-head').text("Rozwiązania w dziedzinie bezpieczeństwa");
+            $('.ls-subhead').text("Poznaj rozwiązania, które zapewniają spójną ochronę i sprzyjają innowacjom. Jesteśmy partnerem, który rozumie potrzeby Twojego przedsiębiorstwa");
         })
 
     $('.box-hover-2').hover(function() {
@@ -35,19 +31,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var5 = "Zarządzanie zagrożeniami";
-            $('.ls-head').text(var5);
+            $('.ls-head').text("Zarządzanie zagrożeniami");
             $('.ls-head').fadeIn(1000);
-            var6 = "Integracja zabezpieczeń ułatwia i usprawnia wykrywanie, analizowanie i niwelowanie zagrożeń";
-            $('.ls-subhead').text(var6);
+            $('.ls-subhead').text("Integracja zabezpieczeń ułatwia i usprawnia wykrywanie, analizowanie i niwelowanie zagrożeń");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var7 = "Rozwiązania w dziedzinie bezpieczeństwa";
-            $('.ls-head').text(var7);
-            var8 = "Poznaj rozwiązania, które zapewniają spójną ochronę i sprzyjają innowacjom. Jesteśmy partnerem, który rozumie potrzeby Twojego przedsiębiorstwa";
-            $('.ls-subhead').text(var8);
+            $('.ls-head').text("Rozwiązania w dziedzinie bezpieczeństwa");
+            $('.ls-subhead').text("Poznaj rozwiązania, które zapewniają spójną ochronę i sprzyjają innowacjom. Jesteśmy partnerem, który rozumie potrzeby Twojego przedsiębiorstwa");
         })
 
     $('.box-hover-3').hover(function() {
@@ -60,19 +52,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var9 = "Cyfrowa wiarygodność";
-            $('.ls-head').text(var9);
+            $('.ls-head').text("Cyfrowa wiarygodność");
             $('.ls-head').fadeIn(1000);
-            var10 = "Sprzyjaj innowacjom, budując bezpieczne relacje z użytkownikami i chroniąc dane wykorzystywane w działalności biznesowej";
-            $('.ls-subhead').text(var10);
+            $('.ls-subhead').text("Sprzyjaj innowacjom, budując bezpieczne relacje z użytkownikami i chroniąc dane wykorzystywane w działalności biznesowej");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            var11 = "Rozwiązania w dziedzinie bezpieczeństwa";
-            $('.ls-head').text(var11);
-            var12 = "Poznaj rozwiązania, które zapewniają spójną ochronę i sprzyjają innowacjom. Jesteśmy partnerem, który rozumie potrzeby Twojego przedsiębiorstwa";
-            $('.ls-subhead').text(var12);
+            $('.ls-head').text("Rozwiązania w dziedzinie bezpieczeństwa");
+            $('.ls-subhead').text("Poznaj rozwiązania, które zapewniają spójną ochronę i sprzyjają innowacjom. Jesteśmy partnerem, który rozumie potrzeby Twojego przedsiębiorstwa");
         })
 
     $('.box-hover-4').hover(function() {
@@ -85,20 +73,15 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var13 = "Bezpieczeństwo w chmurze";
-            $('.ls-head').text(var13);
+            $('.ls-head').text("Bezpieczeństwo w chmurze");
             $('.ls-head').fadeIn(1000);
-            var14 = "Przenieś się bezpiecznie do chmury, integrując zabezpieczenia na każdym etapie migracji";
-            $('.ls-subhead').text(var14);
+            $('.ls-subhead').text("Przenieś się bezpiecznie do chmury, integrując zabezpieczenia na każdym etapie migracji");
             $('.ls-subhead').fadeIn(1300);
 
         },
-        var15 = "Rozwiązania w dziedzinie bezpieczeństwa";
-
         function() {
-            $('.ls-head').text(var15);
-            var16 = "Poznaj rozwiązania, które zapewniają spójną ochronę i sprzyjają innowacjom. Jesteśmy partnerem, który rozumie potrzeby Twojego przedsiębiorstwa";
-            $('.ls-subhead').text(var16);
+            $('.ls-head').text("Rozwiązania w dziedzinie bezpieczeństwa");
+            $('.ls-subhead').text("Poznaj rozwiązania, które zapewniają spójną ochronę i sprzyjają innowacjom. Jesteśmy partnerem, który rozumie potrzeby Twojego przedsiębiorstwa");
         })
 })
 

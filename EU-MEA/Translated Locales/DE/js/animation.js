@@ -10,11 +10,9 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            var1 = "Strategie und Risikomanagement";
-            $('.ls-head').text(var1);
+            $('.ls-head').text("Strategie und Risikomanagement");
             $('.ls-head').fadeIn(1000);
-            var2 = "Entwickeln Sie Ihre Strategie für die Cybersicherheit weiter und halten Sie die Risiken unter Kontrolle – mit einem Partner, der Ihr Business versteht. ";
-            $('.ls-subhead').text(var2);
+            $('.ls-subhead').text("Entwickeln Sie Ihre Strategie für die Cybersicherheit weiter und halten Sie die Risiken unter Kontrolle – mit einem Partner, der Ihr Business versteht. ");
             $('.ls-subhead').fadeIn(1300);
 
         },

@@ -840,15 +840,16 @@ html {
 .transform:hover .ibm-forward-link:before{
 	-webkit-transform: translateX(3px);
 	transform: translateX(3px);
-	transition: 0.2s;
+	/* transition: 0.2s; */
 	color: #0869ff;
+	transform: rotate(180deg);
 }
 
 .transform-more:hover .ibm-forward-link:after{
 	-webkit-transform: translateX(3px);
 	transform: translateX(3px);
-	transition: 0.2s;
 	color: #0869ff;
+	transform: rotate(180deg);
 }
 
 @media (min-width:82rem) {
@@ -6268,7 +6269,7 @@ footer {
 
 .ux-box-menu .ux-box-menu-item:hover {
 	background: #fff;
-	color: #000`
+	color: #000;
 }
 
 .links-bottom{
@@ -6375,4 +6376,8 @@ div[class*='box-sm']{
     opacity: 0;
     animation-name: fadeInUp;
     -webkit-animation-name: fadeInUp;
+}
+
+body{
+	direction: rtl;
 }

@@ -73,7 +73,7 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            $('.ls-head').text("أمان بيئة التشغيل السحابية");
+            $('.ls-head').text("ادارة الاستراتيجية والمخاطر");
             $('.ls-head').fadeIn(1000);
             $('.ls-subhead').text("انتقل بثقة الى بيئة التشغيل السحابية من خلال دمج الأمان في كل مرحلة من مراحل رحلتك");
             $('.ls-subhead').fadeIn(1300);

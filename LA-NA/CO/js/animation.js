@@ -10,16 +10,19 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-
-            $('.ls-head').text("Estrategia y gestión del riesgo");
+            var1 = "Estrategia y gestión de riesgos";
+            $('.ls-head').text(var1);
             $('.ls-head').fadeIn(1000);
-            $('.ls-subhead').text("Mejore su estrategia de seguridad cibernética y gestione los riesgos con un socio que entienda su empresa");
+            var2 = "Mejore su estrategia de seguridad cibernética y gestione los riesgos con un socio que entienda su empresa";
+            $('.ls-subhead').text(var2);
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            $('.ls-head').text("Soluciones de Seguridad");
-            $('.ls-subhead').text("Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa");
+            var3 = "Soluciones de seguridad";
+            $('.ls-head').text(va3);
+            var4 = "Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa";
+            $('.ls-subhead').text(var4);
         })
 
     $('.box-hover-2').hover(function() {
@@ -32,15 +35,19 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            $('.ls-head').text("Gestión de amenazas");
+            var5 = "Gestión de amenazas";
+            $('.ls-head').text(var5);
             $('.ls-head').fadeIn(1000);
-            $('.ls-subhead').text("Una sus defensas para simplificar y fortalecer la detección, el análisis y la respuesta a amenazas");
+            var6 = "Una sus defensas para simplificar y fortalecer la detección, el análisis y la respuesta a amenazas";
+            $('.ls-subhead').text(var6);
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            $('.ls-head').text("Soluciones de Seguridad");
-            $('.ls-subhead').text("Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa");
+            var7 = "Soluciones de seguridad";
+            $('.ls-head').text(var7);
+            var8 = "Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa";
+            $('.ls-subhead').text(var8);
         })
 
     $('.box-hover-3').hover(function() {
@@ -53,17 +60,19 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-
-            $('.ls-head').text("Confianza digital");
+            var9 = "Confianza digital";
+            $('.ls-head').text(var9);
             $('.ls-head').fadeIn(1000);
-
-            $('.ls-subhead').text("Libere innovación desarrollando relaciones de usuarios de confianza y protegiendo los datos que alimentan su empresa");
+            var10 = "Desbloquee innovación desarrollando relaciones de confianza con los usuarios y protegiendo los datos que impulsan su negocio";
+            $('.ls-subhead').text(var10);
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            $('.ls-head').text("Soluciones de Seguridad");
-            $('.ls-subhead').text("Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa");
+            var11 = "Soluciones de seguridad";
+            $('.ls-head').text(var11);
+            var12 = "Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa";
+            $('.ls-subhead').text(var12);
         })
 
     $('.box-hover-4').hover(function() {
@@ -76,15 +85,20 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            $('.ls-head').text("Seguridad de la nube");
+            var13 = "Seguridad de la nube";
+            $('.ls-head').text(var13);
             $('.ls-head').fadeIn(1000);
-            $('.ls-subhead').text("Traslade a la nube con confianza integrando la seguridad en todas las fases de su camino");
+            var14 = "Traslade a la nube con confianza integrando la seguridad en todas las fases de su camino";
+            $('.ls-subhead').text(var14);
             $('.ls-subhead').fadeIn(1300);
 
         },
+        var15 = "Soluciones de seguridad";
+
         function() {
-            $('.ls-head').text("Soluciones de Seguridad");
-            $('.ls-subhead').text("Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa");
+            $('.ls-head').text(var15);
+            var16 = "Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa";
+            $('.ls-subhead').text(var16);
         })
 })
 

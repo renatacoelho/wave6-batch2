@@ -10,15 +10,14 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-
-            $('.ls-head').text("Estrategia y gestión del riesgo");
+            $('.ls-head').text("Estrategia y gestión de riesgos");
             $('.ls-head').fadeIn(1000);
             $('.ls-subhead').text("Mejore su estrategia de seguridad cibernética y gestione los riesgos con un socio que entienda su empresa");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            $('.ls-head').text("Soluciones de Seguridad");
+            $('.ls-head').text("Soluciones de seguridad");
             $('.ls-subhead').text("Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa");
         })
 
@@ -39,7 +38,7 @@ $(document).ready(function() {
 
         },
         function() {
-            $('.ls-head').text("Soluciones de Seguridad");
+            $('.ls-head').text("Soluciones de seguridad");
             $('.ls-subhead').text("Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa");
         })
 
@@ -53,16 +52,14 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-
             $('.ls-head').text("Confianza digital");
             $('.ls-head').fadeIn(1000);
-
-            $('.ls-subhead').text("Libere innovación desarrollando relaciones de usuarios de confianza y protegiendo los datos que alimentan su empresa");
+            $('.ls-subhead').text("Desbloquee innovación desarrollando relaciones de confianza con los usuarios y protegiendo los datos que impulsan su negocio");
             $('.ls-subhead').fadeIn(1300);
 
         },
         function() {
-            $('.ls-head').text("Soluciones de Seguridad");
+            $('.ls-head').text("Soluciones de seguridad");
             $('.ls-subhead').text("Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa");
         })
 
@@ -83,7 +80,7 @@ $(document).ready(function() {
 
         },
         function() {
-            $('.ls-head').text("Soluciones de Seguridad");
+            $('.ls-head').text("Soluciones de seguridad");
             $('.ls-subhead').text("Descubra soluciones de seguridad que unen las defensas y generan innovación con un socio que entienda su empresa");
         })
 })

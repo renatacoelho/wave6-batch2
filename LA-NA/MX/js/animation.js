@@ -54,7 +54,7 @@ $(document).ready(function() {
 
             $('.ls-head').text("Confianza digital");
             $('.ls-head').fadeIn(1000);
-            $('.ls-subhead').text("Desbloquee innovación desarrollando relaciones de confianza con los usuarios y protegiendo los datos que impulsan su negocio");
+            $('.ls-subhead').text("Libere la innovación desarrollando relaciones de confianza con los usuarios y protegiendo los datos que impulsan su negocio");
             $('.ls-subhead').fadeIn(1300);
 
         },
@@ -75,7 +75,7 @@ $(document).ready(function() {
 
             $('.ls-head').text("Seguridad de la nube");
             $('.ls-head').fadeIn(1000);
-            $('.ls-subhead').text("Traslade a la nube con confianza integrando la seguridad en todas las fases de su camino");
+            $('.ls-subhead').text("Traslade con confianza a la nube, integrando la seguridad en todas las etapas de su camino.");
             $('.ls-subhead').fadeIn(1300);
 
         },

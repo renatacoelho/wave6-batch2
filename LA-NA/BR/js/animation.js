@@ -31,7 +31,7 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            $('.ls-head').text("Gerenciamento de ameaça");
+            $('.ls-head').text("Gerenciamento de ameaças");
             $('.ls-head').fadeIn(1000);
 
             $('.ls-subhead').text("Una suas defesas para simplificar e fortalecer a detecção, a análise e a resposta a ameaças");

@@ -31,7 +31,7 @@ $(document).ready(function() {
             $('.cards-intro').fadeIn(1000);
             $('.links-bottom').fadeIn(1300);
 
-            $('.ls-head').text("脅威の管理");
+            $('.ls-head').text("脅威マネジメント");
             $('.ls-head').fadeIn(1000);
             $('.ls-subhead').text("シンプルで強力な脅威の検出、分析、対応のために、防御策を統合します。");
             $('.ls-subhead').fadeIn(1300);
